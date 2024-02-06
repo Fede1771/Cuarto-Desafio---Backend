@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Banana",
+    "description": "Amarilla",
+    "price": "2500",
+    "img": "Sin Imagen",
+    "code": "add4589",
+    "stock": "15",
+    "category": "Comida",
+    "status": true,
+    "thumbnails": [],
+    "id": 1
+  },
+  {
+    "title": "Cafe",
+    "description": "Morenita",
+    "price": "3580",
+    "img": "Sin Imagen",
+    "code": "wer4589",
+    "stock": "20",
+    "category": "Comida",
+    "status": true,
+    "thumbnails": [],
+    "id": 2
+  },
+  {
+    "title": "Cinta Embalaje",
+    "description": "Tochita",
+    "price": "4500",
+    "img": "Sin Imagen",
+    "code": "qse1245",
+    "stock": "20",
+    "category": "Herramientas",
+    "status": true,
+    "thumbnails": [],
+    "id": 3
+  }
+]
